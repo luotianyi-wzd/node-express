@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+</head>
+<body>
+<form action="/users/addUser" method="post">
+    <p>name: <input type="text" name="name" /></p>
+    <p>age: <input type="text" name="age" /></p>
+    <input type="submit" value="add" />
+</form>
+
+<form action="/users/deleteUser" method="get">
+    <p>id: <input type="text" name="id" /></p>
+    <input type="submit" value="delete" />
+</form>
+
+<form action="/users/updateUser" method="post">
+    <p>name: <input type="text" name="name" /></p>
+    <p>age: <input type="text" name="age" /></p>
+    <p>id: <input type="text" name="id" /></p>
+    <input type="submit" value="update" />
+</form>
+
+<form action="/users/register" method="post">
+    <p>username: <input type="text" name="username" /></p>
+    <p>password: <input type="password" name="password" /></p>
+    <input type="submit" value="register" />
+</form>
+
+<form action="/users/login" method="post">
+    <p>username: <input type="text" name="username" /></p>
+    <p>password: <input type="password" name="password" /></p>
+    <input type="submit" value="login" />
+</form>
+
+<form action="/users/logout" method="get">
+    <!-- <p>username: <input type="text" name="username" /></p>
+     <p>password: <input type="password" name="password" /></p>-->
+    <input type="submit" value="logout" />
+</form>
+</body>
+</html>

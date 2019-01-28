@@ -1,0 +1,53 @@
+2019-01-21 20:29:15: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:29:15: 12345678
+2019-01-21 20:29:15: [0mPOST /users/register [32m200 [0m33.808 ms - 55[0m
+2019-01-21 20:29:46: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:29:46: 12345678 pppp
+2019-01-21 20:29:46: [0mPOST /users/register [32m200 [0m33.964 ms - 55[0m
+2019-01-21 20:29:51: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:29:51: 12345678 pppp
+2019-01-21 20:29:51: [0mPOST /users/register [32m200 [0m32.890 ms - 55[0m
+2019-01-21 20:30:27: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:30:27: true 'pppp'
+2019-01-21 20:30:27: [0mPOST /users/register [32m200 [0m33.598 ms - 55[0m
+2019-01-21 20:30:38: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:30:38: true 'pppp'
+2019-01-21 20:30:38: [0mPOST /users/register [32m200 [0m33.440 ms - 55[0m
+2019-01-21 20:31:00: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:31:00: true 'pppp'
+2019-01-21 20:31:00: [0mPOST /users/register [32m200 [0m33.646 ms - 55[0m
+2019-01-21 20:31:46: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:31:46: true 'pppp'
+2019-01-21 20:31:46: [0mPOST /users/register [32m200 [0m34.030 ms - 55[0m
+2019-01-21 20:33:37: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:33:38: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:33:38: [0mPOST /users/register [32m200 [0m34.358 ms - 55[0m
+2019-01-21 20:34:00: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:34:00: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:34:00: [0mPOST /users/register [32m200 [0m33.642 ms - 55[0m
+2019-01-21 20:35:19: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:35:19: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:35:19: [0mPOST /users/register [32m200 [0m34.240 ms - 55[0m
+2019-01-21 20:35:43: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:35:43: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:35:43: [0mPOST /users/register [32m200 [0m34.750 ms - 55[0m
+2019-01-21 20:36:53: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:36:53: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:36:53: shibai
+2019-01-21 20:36:53: [0mPOST /users/register [32m200 [0m34.606 ms - 55[0m
+2019-01-21 20:37:09: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:37:09: [ RowDataPacket { username: '12345678' } ]
+2019-01-21 20:37:09: shibai
+2019-01-21 20:37:09: [0mPOST /users/register [32m200 [0m33.839 ms - 55[0m
+2019-01-21 20:37:34: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:37:34: true 1312312
+2019-01-21 20:37:34: shibai
+2019-01-21 20:37:34: [0mPOST /users/register [32m200 [0m34.099 ms - 55[0m
+2019-01-21 20:38:05: 12345678 fcdee223feecfc587b85455650b5be85
+2019-01-21 20:38:05: true 1312312
+2019-01-21 20:38:05: chengogng
+2019-01-21 20:38:05: error ER_DUP_ENTRY: Duplicate entry '12345678' for key 'username'
+2019-01-21 20:38:15: [0mPOST /users/register [0m- [0m- ms - -[0m
+2019-01-23 10:37:57: [ 0, 10 ]
+2019-01-23 10:37:57: [[{"count(*)":43}],[{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"},{"id":44,"name":"uuuu","age":16,"create_time":"2019-01-21T12:07:54.000Z","update_time":null,"phone":"18524141241","address":"e21e12e1"},{"id":43,"name":"sdasdaw","age":16,"create_time":"2019-01-21T12:07:18.000Z","update_time":null,"phone":"18314532235","address":"321f2131"},{"id":42,"name":"wwww","age":16,"create_time":"2019-01-21T12:05:11.000Z","update_time":null,"phone":"18312547804","address":"123123"},{"id":41,"name":"123123","age":16,"create_time":"2019-01-07T11:09:55.000Z","update_time":"2019-01-21T12:04:52.000Z","phone":"18303035845","address":"123123"},{"id":40,"name":"test","age":16,"create_time":"2019-01-07T10:13:26.000Z","update_time":"2019-01-07T10:13:36.000Z","phone":"18303035831","address":"23123123"},{"id":39,"name":"阿猹1","age":26,"create_time":"2018-12-25T09:22:29.000Z","update_time":"2019-01-07T10:13:09.000Z","phone":"13023625832","address":"123123"},{"id":38,"name":"阿猹","age":16,"create_time":"2018-12-25T09:16:35.000Z","update_time":null,"phone":"18303037887","address":"12312312"},{"id":37,"name":"12e","age":16,"create_time":"2018-12-25T09:05:44.000Z","update_time":null,"phone":"123","address":"123"},{"id":36,"name":"124","age":90,"create_time":"2018-12-25T09:05:16.000Z","update_time":null,"phone":"124124124","address":"1241244"}]]
+2019-01-23 10:37:58: [0mGET /users/getUser?pageNum=1 [32m200 [0m23.156 ms - 1497[0m
