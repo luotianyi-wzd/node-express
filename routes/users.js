@@ -101,7 +101,7 @@ router.post('/updateUser', function (req, res, next) {
 
 //注册
 let checkSql = 'select username from login where username = ?'
-let registerSql = 'insert into login(username, password) values(?, ?)'
+let registerSql = 'insert into login(username, password, role) values(?, ?, ?)'
 router.post('/register', function (req, res, next) {
     let username = req.body.username
     let password = crypto.createHmac('md5', '123456').update(req.body.password).digest('hex');
@@ -112,7 +112,7 @@ router.post('/register', function (req, res, next) {
         } else {
             console.log('chengogng')
 
-            query(registerSql, [username, password], function (request) {
+            query(registerSql, [username, password, 0], function (request) {
                 if (request.affectedRows == 1) {
                     res.send({code: 1, message: 'success', data: request, msg: '注册成功'})
                 } else {

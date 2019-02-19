@@ -7,8 +7,6 @@ const fs = require('fs')
 /*let utils = require('./../utils/utils')
 let keys = require('./../utils/key')*/
 let token = require('./qiniu')
-
-const crypto = require('crypto');
 const request = require('request');
 
 //查询数据
@@ -54,6 +52,7 @@ router.post('/addData', function (req, res, next) {
         let r = request.post('https://up-z2.qiniup.com', function (err, response, body) {
             if (!err) {
                 fs.unlinkSync(newPath)
+                console.log(JSON.parse(body))
                 let picture = 'http://plqgdover.bkt.clouddn.com' + '/' + JSON.parse(body).key
                 query(addSql, [fields.name, fields.description, picture, fields.status], function (request) {
                     if (request.affectedRows == 1) {

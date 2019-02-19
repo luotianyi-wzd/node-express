@@ -9,6 +9,7 @@ var FileStore = require('session-file-store')(session)
 
 var usersRouter = require('./routes/users');
 var aboutRouter = require('./routes/about');
+var roleRouter = require('./routes/role');
 
 var app = express();
 
@@ -51,6 +52,7 @@ app.use(function(req, res, next) {
 
 app.use('/users', usersRouter);
 app.use('/about', aboutRouter);
+app.use('/role', roleRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
