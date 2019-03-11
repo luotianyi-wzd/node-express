@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "watch": "pm2 start ./bin/www --watch",
-    "start": "pm2 start ./bin/www",
+    "start": "pm2 start pm2.json",
     "pm2": "pm2 start pm2.json"
   },
   "dependencies": {

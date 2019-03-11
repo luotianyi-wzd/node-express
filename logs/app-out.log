@@ -51,3 +51,1542 @@
 2019-01-23 10:37:57: [ 0, 10 ]
 2019-01-23 10:37:57: [[{"count(*)":43}],[{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"},{"id":44,"name":"uuuu","age":16,"create_time":"2019-01-21T12:07:54.000Z","update_time":null,"phone":"18524141241","address":"e21e12e1"},{"id":43,"name":"sdasdaw","age":16,"create_time":"2019-01-21T12:07:18.000Z","update_time":null,"phone":"18314532235","address":"321f2131"},{"id":42,"name":"wwww","age":16,"create_time":"2019-01-21T12:05:11.000Z","update_time":null,"phone":"18312547804","address":"123123"},{"id":41,"name":"123123","age":16,"create_time":"2019-01-07T11:09:55.000Z","update_time":"2019-01-21T12:04:52.000Z","phone":"18303035845","address":"123123"},{"id":40,"name":"test","age":16,"create_time":"2019-01-07T10:13:26.000Z","update_time":"2019-01-07T10:13:36.000Z","phone":"18303035831","address":"23123123"},{"id":39,"name":"阿猹1","age":26,"create_time":"2018-12-25T09:22:29.000Z","update_time":"2019-01-07T10:13:09.000Z","phone":"13023625832","address":"123123"},{"id":38,"name":"阿猹","age":16,"create_time":"2018-12-25T09:16:35.000Z","update_time":null,"phone":"18303037887","address":"12312312"},{"id":37,"name":"12e","age":16,"create_time":"2018-12-25T09:05:44.000Z","update_time":null,"phone":"123","address":"123"},{"id":36,"name":"124","age":90,"create_time":"2018-12-25T09:05:16.000Z","update_time":null,"phone":"124124124","address":"1241244"}]]
 2019-01-23 10:37:58: [0mGET /users/getUser?pageNum=1 [32m200 [0m23.156 ms - 1497[0m
+2019-02-27 15:20:58: [ 0, 10 ]
+2019-02-27 15:20:58: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:20:58: [0mGET /users/getUser?pageNum=1 [36m304 [0m25.064 ms - -[0m
+2019-02-27 15:21:00: [ 0, 10 ]
+2019-02-27 15:21:00: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:21:00: [0mGET /users/getUser?pageNum=1 [36m304 [0m31.291 ms - -[0m
+2019-02-27 15:28:22: [ 0, 10 ]
+2019-02-27 15:28:22: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 15:28:22: [0mGET /role/getRole?pageNum=1 [32m200 [0m27.103 ms - 925[0m
+2019-02-27 15:28:29: [ 0, 10 ]
+2019-02-27 15:28:29: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:28:29: [0mGET /users/getUser?pageNum=1 [36m304 [0m26.807 ms - -[0m
+2019-02-27 15:32:44: [ 0, 10 ]
+2019-02-27 15:32:44: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:32:44: [0mGET /users/getUser?pageNum=1 [36m304 [0m25.923 ms - -[0m
+2019-02-27 15:34:00: [ 0, 10 ]
+2019-02-27 15:34:00: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:34:00: [0mGET /users/getUser?pageNum=1 [36m304 [0m26.091 ms - -[0m
+2019-02-27 15:42:32: [0mGET /about/getData?pageNum=1 [32m200 [0m24.407 ms - 2216[0m
+2019-02-27 15:45:17: { hash: 'Ft5jpXQ_Ehkr4nltyrLjOUAvnmDu',
+  key: 'Ft5jpXQ_Ehkr4nltyrLjOUAvnmDu' }
+2019-02-27 15:45:17: [0mPOST /about/addData [32m200 [0m243.291 ms - 51[0m
+2019-02-27 15:45:17: [0mGET /about/getData?pageNum=1 [32m200 [0m8.636 ms - 2235[0m
+2019-02-27 15:45:44: [0mPOST /about/updateData [32m200 [0m574.309 ms - 51[0m
+2019-02-27 15:45:44: [0mGET /about/getData?pageNum=1 [32m200 [0m7.630 ms - 2235[0m
+2019-02-27 15:47:19: [0mGET /about/getData?pageNum=1 [36m304 [0m25.675 ms - -[0m
+2019-02-27 15:47:23: [0mPOST /about/updateData [32m200 [0m245.118 ms - 51[0m
+2019-02-27 15:47:23: [0mGET /about/getData?pageNum=1 [32m200 [0m6.994 ms - 2235[0m
+2019-02-27 15:47:38: [0mPOST /about/updateData [32m200 [0m912.225 ms - 51[0m
+2019-02-27 15:47:38: [0mGET /about/getData?pageNum=1 [32m200 [0m5.366 ms - 2235[0m
+2019-02-27 15:47:45: [0mPOST /about/updateData [32m200 [0m5.552 ms - 51[0m
+2019-02-27 15:47:45: [0mGET /about/getData?pageNum=1 [32m200 [0m4.020 ms - 2235[0m
+2019-02-27 15:47:51: [0mGET /about/getData?pageNum=2 [32m200 [0m24.007 ms - 2216[0m
+2019-02-27 15:47:52: [0mGET /about/getData?pageNum=1 [36m304 [0m4.198 ms - -[0m
+2019-02-27 15:48:56: [0mPOST /about/updateData [32m200 [0m370.056 ms - 51[0m
+2019-02-27 15:48:56: [0mGET /about/getData?pageNum=1 [32m200 [0m6.972 ms - 2235[0m
+2019-02-27 15:49:06: [0mPOST /about/updateData [32m200 [0m426.022 ms - 51[0m
+2019-02-27 15:49:06: [0mGET /about/getData?pageNum=1 [32m200 [0m6.415 ms - 2235[0m
+2019-02-27 15:57:47: [ 0, 10 ]
+2019-02-27 15:57:47: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 15:57:47: [0mGET /users/getUser?pageNum=1 [36m304 [0m28.425 ms - -[0m
+2019-02-27 15:57:51: [0mGET /about/getData?pageNum=1 [36m304 [0m4.879 ms - -[0m
+2019-02-27 15:57:53: [0mGET /about/getData?pageNum=2 [36m304 [0m23.750 ms - -[0m
+2019-02-27 15:57:54: [0mGET /about/getData?pageNum=3 [32m200 [0m3.751 ms - 1134[0m
+2019-02-27 15:57:56: [0mGET /about/getData?pageNum=1 [36m304 [0m2.644 ms - -[0m
+2019-02-27 16:01:36: [0mGET /about/getData?pageNum=1 [36m304 [0m24.635 ms - -[0m
+2019-02-27 16:01:45: 28
+2019-02-27 16:01:45: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-02-27 16:01:45: [0mGET /about/deleteData?id=28 [32m200 [0m6.649 ms - 53[0m
+2019-02-27 16:01:45: [0mGET /about/getData?pageNum=1 [32m200 [0m3.815 ms - 2237[0m
+2019-02-27 16:01:51: [0mGET /about/getData?pageNum=2 [32m200 [0m22.772 ms - 2211[0m
+2019-02-27 16:01:52: [0mGET /about/getData?pageNum=3 [32m200 [0m4.252 ms - 921[0m
+2019-02-27 16:01:55: [0mGET /about/getData?pageNum=1 [36m304 [0m3.809 ms - -[0m
+2019-02-27 16:01:57: 23
+2019-02-27 16:01:57: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-02-27 16:01:57: [0mGET /about/deleteData?id=23 [32m200 [0m18.535 ms - 53[0m
+2019-02-27 16:01:57: [0mGET /about/getData?pageNum=1 [32m200 [0m2.948 ms - 2240[0m
+2019-02-27 16:01:58: [0mGET /about/getData?pageNum=3 [32m200 [0m2.744 ms - 710[0m
+2019-02-27 16:02:01: [0mGET /about/getData?pageNum=2 [32m200 [0m5.214 ms - 2201[0m
+2019-02-27 16:02:02: [0mGET /about/getData?pageNum=1 [36m304 [0m3.200 ms - -[0m
+2019-02-27 16:02:03: [ 0, 10 ]
+2019-02-27 16:02:03: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:02:03: [0mGET /users/getUser?pageNum=1 [36m304 [0m4.753 ms - -[0m
+2019-02-27 16:06:23: [ 10, 10 ]
+2019-02-27 16:06:23: [[{"count(*)":52}],[{"id":44,"name":"uuuu","age":16,"create_time":"2019-01-21T12:07:54.000Z","update_time":null,"phone":"18524141241","address":"e21e12e1"},{"id":43,"name":"sdasdaw","age":16,"create_time":"2019-01-21T12:07:18.000Z","update_time":null,"phone":"18314532235","address":"321f2131"},{"id":42,"name":"wwww","age":16,"create_time":"2019-01-21T12:05:11.000Z","update_time":null,"phone":"18312547804","address":"123123"},{"id":41,"name":"123123","age":16,"create_time":"2019-01-07T11:09:55.000Z","update_time":"2019-01-21T12:04:52.000Z","phone":"18303035845","address":"123123"},{"id":40,"name":"test","age":16,"create_time":"2019-01-07T10:13:26.000Z","update_time":"2019-01-07T10:13:36.000Z","phone":"18303035831","address":"23123123"},{"id":39,"name":"阿猹1","age":26,"create_time":"2018-12-25T09:22:29.000Z","update_time":"2019-01-07T10:13:09.000Z","phone":"13023625832","address":"123123"},{"id":38,"name":"阿猹","age":16,"create_time":"2018-12-25T09:16:35.000Z","update_time":null,"phone":"18303037887","address":"12312312"},{"id":37,"name":"12e","age":16,"create_time":"2018-12-25T09:05:44.000Z","update_time":null,"phone":"123","address":"123"},{"id":36,"name":"124","age":90,"create_time":"2018-12-25T09:05:16.000Z","update_time":null,"phone":"124124124","address":"1241244"},{"id":35,"name":"123","age":16,"create_time":"2018-12-25T09:03:05.000Z","update_time":null,"phone":"123","address":"123"}]]
+2019-02-27 16:06:23: [0mGET /users/getUser?pageNum=2 [32m200 [0m26.656 ms - 1462[0m
+2019-02-27 16:06:47: [0mGET /about/getData?pageNum=1 [36m304 [0m6.464 ms - -[0m
+2019-02-27 16:07:03: error ER_DATA_TOO_LONG: Data too long for column 'description' at row 1
+2019-02-27 16:07:13: [0mPOST /about/updateData [0m- [0m- ms - -[0m
+2019-02-27 16:12:04: [0mGET /about/getData?pageNum=1 [36m304 [0m28.037 ms - -[0m
+2019-02-27 16:12:06: [0mPOST /about/updateData [32m200 [0m6.756 ms - 51[0m
+2019-02-27 16:12:06: [0mGET /about/getData?pageNum=1 [36m304 [0m4.630 ms - -[0m
+2019-02-27 16:12:09: [0mPOST /about/updateData [32m200 [0m3.198 ms - 51[0m
+2019-02-27 16:12:09: [0mGET /about/getData?pageNum=1 [36m304 [0m6.238 ms - -[0m
+2019-02-27 16:12:30: [0mGET /about/getData?pageNum=1 [36m304 [0m21.242 ms - -[0m
+2019-02-27 16:12:38: [0mPOST /about/updateData [32m200 [0m11.971 ms - 51[0m
+2019-02-27 16:12:38: [0mGET /about/getData?pageNum=1 [32m200 [0m4.436 ms - 2840[0m
+2019-02-27 16:15:25: [0mGET /about/getData?pageNum=1 [36m304 [0m21.920 ms - -[0m
+2019-02-27 16:15:30: [0mGET /about/getData?pageNum=1 [36m304 [0m23.584 ms - -[0m
+2019-02-27 16:15:36: [0mGET /about/getData?pageNum=2 [36m304 [0m5.049 ms - -[0m
+2019-02-27 16:15:39: [0mGET /about/getData?pageNum=1 [36m304 [0m3.691 ms - -[0m
+2019-02-27 16:15:46: [0mGET /about/getData?pageNum=1 [36m304 [0m5.419 ms - -[0m
+2019-02-27 16:16:18: [0mGET /about/getData?pageNum=1 [32m200 [0m25.177 ms - 2840[0m
+2019-02-27 16:16:28: [0mGET /about/getData?pageNum=1 [32m200 [0m24.936 ms - 2840[0m
+2019-02-27 16:16:37: [0mGET /about/getData?pageNum=1 [32m200 [0m23.036 ms - 2840[0m
+2019-02-27 16:17:00: [0mGET /about/getData?pageNum=1 [32m200 [0m25.054 ms - 2840[0m
+2019-02-27 16:18:08: [0mGET /about/getData?pageNum=1 [32m200 [0m26.229 ms - 2840[0m
+2019-02-27 16:18:18: [0mGET /about/getData?pageNum=1 [36m304 [0m24.542 ms - -[0m
+2019-02-27 16:18:26: [0mPOST /about/updateData [32m200 [0m24.080 ms - 51[0m
+2019-02-27 16:18:26: [0mGET /about/getData?pageNum=1 [36m304 [0m8.126 ms - -[0m
+2019-02-27 16:18:32: [0mPOST /about/updateData [32m200 [0m5.563 ms - 51[0m
+2019-02-27 16:18:32: [0mGET /about/getData?pageNum=1 [32m200 [0m5.684 ms - 2228[0m
+2019-02-27 16:18:40: [0mPOST /about/updateData [32m200 [0m308.262 ms - 51[0m
+2019-02-27 16:18:40: [0mGET /about/getData?pageNum=1 [32m200 [0m6.721 ms - 2228[0m
+2019-02-27 16:25:17: [ 0, 10 ]
+2019-02-27 16:25:17: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:25:17: [0mGET /role/getRole?pageNum=1 [32m200 [0m27.435 ms - 925[0m
+2019-02-27 16:25:19: [ 0, 10 ]
+2019-02-27 16:25:19: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:25:19: [0mGET /users/getUser?pageNum=1 [32m200 [0m6.723 ms - 1507[0m
+2019-02-27 16:25:21: [0mGET /users/logout [32m200 [0m5.233 ms - 51[0m
+2019-02-27 16:25:22: [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'G:\node\app\sessions\ICKSUhJN2SWinsWMTaLLWcx0r4x9-cnt.json'
+2019-02-27 16:25:23: [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'G:\node\app\sessions\ICKSUhJN2SWinsWMTaLLWcx0r4x9-cnt.json'
+2019-02-27 16:25:23: [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'G:\node\app\sessions\ICKSUhJN2SWinsWMTaLLWcx0r4x9-cnt.json'
+2019-02-27 16:25:23: [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'G:\node\app\sessions\ICKSUhJN2SWinsWMTaLLWcx0r4x9-cnt.json'
+2019-02-27 16:25:23: [session-file-store] will retry, error on last attempt: Error: ENOENT: no such file or directory, open 'G:\node\app\sessions\ICKSUhJN2SWinsWMTaLLWcx0r4x9-cnt.json'
+2019-02-27 16:25:23: [0mPOST /users/login [32m200 [0m291.439 ms - 51[0m
+2019-02-27 16:25:23: [ 0, 10 ]
+2019-02-27 16:25:23: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:25:23: [0mGET /users/getUser?pageNum=1 [36m304 [0m5.627 ms - -[0m
+2019-02-27 16:25:28: [0mGET /about/getData?pageNum=1 [36m304 [0m5.330 ms - -[0m
+2019-02-27 16:25:30: [0mGET /about/getData?pageNum=2 [36m304 [0m3.251 ms - -[0m
+2019-02-27 16:25:31: [0mGET /about/getData?pageNum=3 [36m304 [0m3.248 ms - -[0m
+2019-02-27 16:25:32: [0mGET /about/getData?pageNum=1 [36m304 [0m4.206 ms - -[0m
+2019-02-27 16:25:34: [0mGET /about/getData?pageNum=3 [36m304 [0m3.656 ms - -[0m
+2019-02-27 16:25:35: 2
+2019-02-27 16:25:35: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-02-27 16:25:35: [0mGET /about/deleteData?id=2 [32m200 [0m4.840 ms - 53[0m
+2019-02-27 16:25:35: [0mGET /about/getData?pageNum=3 [32m200 [0m3.141 ms - 498[0m
+2019-02-27 16:25:36: [0mGET /about/getData?pageNum=2 [32m200 [0m3.909 ms - 2201[0m
+2019-02-27 16:25:42: [0mPOST /about/updateData [32m200 [0m425.034 ms - 51[0m
+2019-02-27 16:25:42: [0mGET /about/getData?pageNum=2 [32m200 [0m4.204 ms - 2201[0m
+2019-02-27 16:25:44: [0mGET /about/getData?pageNum=1 [32m200 [0m3.303 ms - 2228[0m
+2019-02-27 16:30:35: [ 0, 10 ]
+2019-02-27 16:30:35: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:30:35: [0mGET /users/getUser?pageNum=1 [36m304 [0m28.369 ms - -[0m
+2019-02-27 16:33:10: [ 0, 10 ]
+2019-02-27 16:33:10: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:33:10: [0mGET /users/getUser?pageNum=1 [36m304 [0m27.170 ms - -[0m
+2019-02-27 16:33:10: [0mGET /about/getData?pageNum=1 [36m304 [0m5.128 ms - -[0m
+2019-02-27 16:33:17: [0mPOST /about/updateData [32m200 [0m25.495 ms - 51[0m
+2019-02-27 16:33:17: [0mGET /about/getData?pageNum=1 [32m200 [0m7.313 ms - 2336[0m
+2019-02-27 16:33:27: [0mPOST /about/updateData [32m200 [0m5.107 ms - 51[0m
+2019-02-27 16:33:27: [0mGET /about/getData?pageNum=1 [32m200 [0m4.299 ms - 2456[0m
+2019-02-27 16:33:36: [0mGET /about/getData?pageNum=1 [36m304 [0m21.165 ms - -[0m
+2019-02-27 16:33:41: [0mGET /about/getData?pageNum=1 [36m304 [0m22.570 ms - -[0m
+2019-02-27 16:33:54: [0mGET /about/getData?pageNum=1 [36m304 [0m30.513 ms - -[0m
+2019-02-27 16:34:43: [0mGET /about/getData?pageNum=1 [36m304 [0m27.935 ms - -[0m
+2019-02-27 16:34:49: [0mGET /about/getData?pageNum=1 [36m304 [0m21.208 ms - -[0m
+2019-02-27 16:34:53: [0mGET /about/getData?pageNum=1 [36m304 [0m4.132 ms - -[0m
+2019-02-27 16:34:57: [0mGET /about/getData?pageNum=1 [36m304 [0m22.470 ms - -[0m
+2019-02-27 16:35:38: [0mGET /about/getData?pageNum=1 [36m304 [0m22.341 ms - -[0m
+2019-02-27 16:35:42: [0mGET /about/getData?pageNum=1 [36m304 [0m3.876 ms - -[0m
+2019-02-27 16:35:45: [0mGET /about/getData?pageNum=1 [36m304 [0m21.808 ms - -[0m
+2019-02-27 16:35:50: [0mGET /about/getData?pageNum=1 [36m304 [0m24.368 ms - -[0m
+2019-02-27 16:35:59: [0mGET /about/getData?pageNum=1 [36m304 [0m4.902 ms - -[0m
+2019-02-27 16:36:03: [0mGET /about/getData?pageNum=1 [36m304 [0m5.394 ms - -[0m
+2019-02-27 16:36:07: [0mGET /about/getData?pageNum=1 [36m304 [0m24.476 ms - -[0m
+2019-02-27 16:36:49: [0mGET /about/getData?pageNum=1 [36m304 [0m22.096 ms - -[0m
+2019-02-27 16:36:54: [0mGET /about/getData?pageNum=1 [36m304 [0m3.661 ms - -[0m
+2019-02-27 16:41:16: [0mGET /about/getData?pageNum=1 [36m304 [0m22.030 ms - -[0m
+2019-02-27 16:41:16: [0mGET /about/getData?pageNum=1 [36m304 [0m4.212 ms - -[0m
+2019-02-27 16:41:20: [ 0, 10 ]
+2019-02-27 16:41:20: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:41:20: [0mGET /role/getRole?pageNum=1 [36m304 [0m26.271 ms - -[0m
+2019-02-27 16:41:26: [0mPOST /role/changeRole [32m200 [0m20.154 ms - 227[0m
+2019-02-27 16:41:26: [ 0, 10 ]
+2019-02-27 16:41:26: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":1},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:41:26: [0mGET /role/getRole?pageNum=1 [32m200 [0m4.248 ms - 925[0m
+2019-02-27 16:41:32: [0mPOST /role/changeRole [32m200 [0m4.236 ms - 227[0m
+2019-02-27 16:41:32: [ 0, 10 ]
+2019-02-27 16:41:32: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:41:32: [0mGET /role/getRole?pageNum=1 [32m200 [0m3.052 ms - 925[0m
+2019-02-27 16:43:15: [ 0, 10 ]
+2019-02-27 16:43:15: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:43:15: [0mGET /role/getRole?pageNum=1 [36m304 [0m7.988 ms - -[0m
+2019-02-27 16:43:18: [ 0, 10 ]
+2019-02-27 16:43:18: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:43:18: [0mGET /role/getRole?pageNum=1 [36m304 [0m6.372 ms - -[0m
+2019-02-27 16:43:20: [ 10, 10 ]
+2019-02-27 16:43:20: [[{"count(*)":13}],[{"id":3,"username":"1234567890","create_time":"2018-12-24T14:00:45.000Z","role":0},{"id":1,"username":"12345678","create_time":"2018-12-24T13:47:22.000Z","role":1},{"id":0,"username":"123456789","create_time":"2018-12-24T14:00:43.000Z","role":0}]]
+2019-02-27 16:43:20: [0mGET /role/getRole?pageNum=2 [32m200 [0m24.481 ms - 331[0m
+2019-02-27 16:43:23: [0mPOST /role/changeRole [32m200 [0m36.087 ms - 227[0m
+2019-02-27 16:43:23: [ 10, 10 ]
+2019-02-27 16:43:23: [[{"count(*)":13}],[{"id":3,"username":"1234567890","create_time":"2018-12-24T14:00:45.000Z","role":1},{"id":1,"username":"12345678","create_time":"2018-12-24T13:47:22.000Z","role":1},{"id":0,"username":"123456789","create_time":"2018-12-24T14:00:43.000Z","role":0}]]
+2019-02-27 16:43:23: [0mGET /role/getRole?pageNum=2 [32m200 [0m6.805 ms - 331[0m
+2019-02-27 16:43:27: [0mPOST /role/changeRole [32m200 [0m4.128 ms - 227[0m
+2019-02-27 16:43:27: [ 10, 10 ]
+2019-02-27 16:43:27: [[{"count(*)":13}],[{"id":3,"username":"1234567890","create_time":"2018-12-24T14:00:45.000Z","role":1},{"id":1,"username":"12345678","create_time":"2018-12-24T13:47:22.000Z","role":0},{"id":0,"username":"123456789","create_time":"2018-12-24T14:00:43.000Z","role":0}]]
+2019-02-27 16:43:27: [0mGET /role/getRole?pageNum=2 [32m200 [0m3.226 ms - 331[0m
+2019-02-27 16:43:29: [0mPOST /role/changeRole [32m200 [0m4.787 ms - 227[0m
+2019-02-27 16:43:29: [ 10, 10 ]
+2019-02-27 16:43:29: [[{"count(*)":13}],[{"id":3,"username":"1234567890","create_time":"2018-12-24T14:00:45.000Z","role":0},{"id":1,"username":"12345678","create_time":"2018-12-24T13:47:22.000Z","role":0},{"id":0,"username":"123456789","create_time":"2018-12-24T14:00:43.000Z","role":0}]]
+2019-02-27 16:43:29: [0mGET /role/getRole?pageNum=2 [32m200 [0m3.640 ms - 331[0m
+2019-02-27 16:43:31: [ 0, 10 ]
+2019-02-27 16:43:31: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":0}]]
+2019-02-27 16:43:31: [0mGET /role/getRole?pageNum=1 [36m304 [0m2.581 ms - -[0m
+2019-02-27 16:43:35: [0mPOST /role/changeRole [32m200 [0m3.295 ms - 227[0m
+2019-02-27 16:43:35: [ 0, 10 ]
+2019-02-27 16:43:35: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:43:35: [0mGET /role/getRole?pageNum=1 [32m200 [0m2.625 ms - 925[0m
+2019-02-27 16:44:19: [ 0, 10 ]
+2019-02-27 16:44:19: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-02-27 16:44:19: [0mGET /users/getUser?pageNum=1 [36m304 [0m26.060 ms - -[0m
+2019-02-27 16:44:29: [ 0, 10 ]
+2019-02-27 16:44:29: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:44:29: [0mGET /role/getRole?pageNum=1 [36m304 [0m6.578 ms - -[0m
+2019-02-27 16:44:36: [ 10, 10 ]
+2019-02-27 16:44:36: [[{"count(*)":13}],[{"id":3,"username":"1234567890","create_time":"2018-12-24T14:00:45.000Z","role":0},{"id":1,"username":"12345678","create_time":"2018-12-24T13:47:22.000Z","role":0},{"id":0,"username":"123456789","create_time":"2018-12-24T14:00:43.000Z","role":0}]]
+2019-02-27 16:44:36: [0mGET /role/getRole?pageNum=2 [36m304 [0m3.570 ms - -[0m
+2019-02-27 16:44:44: [ 0, 10 ]
+2019-02-27 16:44:44: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:44:44: [0mGET /role/getRole?pageNum=1 [36m304 [0m5.073 ms - -[0m
+2019-02-27 16:45:06: [0mGET /about/getData?pageNum=1 [36m304 [0m136.315 ms - -[0m
+2019-02-27 16:45:13: [0mPOST /about/updateData [32m200 [0m6.724 ms - 51[0m
+2019-02-27 16:45:13: [0mGET /about/getData?pageNum=1 [36m304 [0m3.355 ms - -[0m
+2019-02-27 16:45:23: [0mPOST /about/updateData [32m200 [0m333.817 ms - 51[0m
+2019-02-27 16:45:23: [0mGET /about/getData?pageNum=1 [32m200 [0m8.599 ms - 2456[0m
+2019-02-27 16:49:01: [ 0, 10 ]
+2019-02-27 16:49:01: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:49:01: [0mGET /role/getRole?pageNum=1 [36m304 [0m28.361 ms - -[0m
+2019-02-27 16:49:06: [0mPOST /role/changeRole [32m200 [0m21.543 ms - 227[0m
+2019-02-27 16:49:06: [ 0, 10 ]
+2019-02-27 16:49:06: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":1},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:49:06: [0mGET /role/getRole?pageNum=1 [32m200 [0m4.245 ms - 925[0m
+2019-02-27 16:49:10: [0mPOST /role/changeRole [32m200 [0m4.866 ms - 227[0m
+2019-02-27 16:49:10: [ 0, 10 ]
+2019-02-27 16:49:10: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-02-27 16:49:10: [0mGET /role/getRole?pageNum=1 [32m200 [0m5.529 ms - 925[0m
+2019-02-27 17:34:56: [session-file-store] Deleting expired sessions
+2019-02-27 17:48:26: [session-file-store] Deleting expired sessions
+2019-02-27 18:34:56: [session-file-store] Deleting expired sessions
+2019-02-27 18:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 18:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 18:48:26: [session-file-store] Deleting expired sessions
+2019-02-27 18:49:23: [session-file-store] Deleting expired sessions
+2019-02-27 19:34:56: [session-file-store] Deleting expired sessions
+2019-02-27 19:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 19:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 19:48:26: [session-file-store] Deleting expired sessions
+2019-02-27 19:49:23: [session-file-store] Deleting expired sessions
+2019-02-27 19:49:26: [session-file-store] Deleting expired sessions
+2019-02-27 20:24:06: [session-file-store] Deleting expired sessions
+2019-02-27 20:34:56: [session-file-store] Deleting expired sessions
+2019-02-27 20:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 20:43:23: [session-file-store] Deleting expired sessions
+2019-02-27 20:48:26: [session-file-store] Deleting expired sessions
+2019-02-27 20:49:23: [session-file-store] Deleting expired sessions
+2019-02-27 20:49:26: [session-file-store] Deleting expired sessions
+2019-02-27 20:49:30: [session-file-store] Deleting expired sessions
+2019-02-27 21:24:06: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 09:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 10:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 11:51:50: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 13:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 14:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 15:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 16:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 17:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 18:46:35: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-02-28 20:41:43: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 09:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 10:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:52:03: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 11:59:53: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 13:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 14:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 15:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 15:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 16:07:03: 未登录
+2019-03-01 16:07:03: [0mGET / [32m200 [0m9.853 ms - 28[0m
+2019-03-01 16:07:03: 未登录
+2019-03-01 16:07:03: [0mGET /favicon.ico [32m200 [0m3.255 ms - 28[0m
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 16:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 16:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 17:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 17:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 18:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 18:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 19:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 19:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 20:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 20:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 21:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 21:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 22:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 22:51:47: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:32: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:33: [session-file-store] Deleting expired sessions
+2019-03-01 23:50:41: [session-file-store] Deleting expired sessions
+2019-03-01 23:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 00:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 00:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 01:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 01:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 02:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 02:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 03:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 03:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 04:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 04:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 05:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 05:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 06:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 06:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 07:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 07:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 08:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 08:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 09:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 09:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 10:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 10:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 11:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 11:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 12:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 12:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 13:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 13:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 14:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 14:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 15:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 15:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 16:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 16:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 17:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 17:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 18:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 18:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 19:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 19:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:32: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:33: [session-file-store] Deleting expired sessions
+2019-03-02 20:50:41: [session-file-store] Deleting expired sessions
+2019-03-02 20:51:47: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 21:50:36: [session-file-store] Deleting expired sessions
+2019-03-02 21:51:42: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 22:50:36: [session-file-store] Deleting expired sessions
+2019-03-02 22:51:42: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:27: [session-file-store] Deleting expired sessions
+2019-03-02 23:50:36: [session-file-store] Deleting expired sessions
+2019-03-02 23:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 00:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 00:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 01:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 01:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 02:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 02:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 03:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 03:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 04:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 04:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 05:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 05:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 06:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 06:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 07:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 07:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 08:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 08:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 09:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 09:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 10:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 10:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 11:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 11:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 12:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 12:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 13:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 13:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 14:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 14:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 15:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 15:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 16:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 16:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 17:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 17:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 18:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 18:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 19:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 19:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:27: [session-file-store] Deleting expired sessions
+2019-03-03 20:50:36: [session-file-store] Deleting expired sessions
+2019-03-03 20:51:42: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 21:50:30: [session-file-store] Deleting expired sessions
+2019-03-03 21:51:37: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 22:50:30: [session-file-store] Deleting expired sessions
+2019-03-03 22:51:37: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:22: [session-file-store] Deleting expired sessions
+2019-03-03 23:50:30: [session-file-store] Deleting expired sessions
+2019-03-03 23:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 00:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 00:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 01:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 01:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 02:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 02:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 03:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 03:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 04:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 04:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 05:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 05:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 06:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 06:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 07:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 07:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 08:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 08:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 09:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 09:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 10:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 10:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:22: [session-file-store] Deleting expired sessions
+2019-03-04 11:50:30: [session-file-store] Deleting expired sessions
+2019-03-04 11:51:37: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 13:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 14:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-04 15:50:08: [session-file-store] Deleting expired sessions
+2019-03-11 14:52:16: 未登录
+2019-03-11 14:52:16: [0mGET /about/getData?pageNum=1 [32m200 [0m6.831 ms - 28[0m
+2019-03-11 14:52:18: [0mPOST /users/login [32m200 [0m70.470 ms - 51[0m
+2019-03-11 14:52:19: [ 0, 10 ]
+2019-03-11 14:52:19: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-03-11 14:52:19: [0mGET /users/getUser?pageNum=1 [32m200 [0m12.799 ms - 1507[0m
+2019-03-11 14:52:20: [0mGET /about/getData?pageNum=1 [32m200 [0m6.846 ms - 2456[0m
+2019-03-11 14:52:31: [ 0, 10 ]
+2019-03-11 14:52:31: [[{"count(*)":13}],[{"id":14,"username":"12345678ccc","create_time":"2019-02-20T02:45:45.000Z","role":0},{"id":13,"username":"12345678ad","create_time":"2019-02-20T02:45:37.000Z","role":0},{"id":12,"username":"ffffffffr231r","create_time":"2019-02-19T07:29:53.000Z","role":0},{"id":11,"username":"123456786","create_time":"2019-02-12T06:44:02.000Z","role":0},{"id":10,"username":"12346866436","create_time":"2019-01-24T06:24:30.000Z","role":0},{"id":9,"username":"1234567891","create_time":"2019-01-24T06:23:35.000Z","role":0},{"id":8,"username":"12345678d","create_time":"2019-01-21T12:44:27.000Z","role":0},{"id":6,"username":"123456788","create_time":"2019-01-21T09:50:43.000Z","role":0},{"id":5,"username":"123456789012","create_time":"2018-12-24T14:00:48.000Z","role":0},{"id":4,"username":"12345678901","create_time":"2018-12-24T14:00:47.000Z","role":1}]]
+2019-03-11 14:52:31: [0mGET /role/getRole?pageNum=1 [36m304 [0m11.233 ms - -[0m
+2019-03-11 14:52:44: [ 0, 10 ]
+2019-03-11 14:52:44: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-03-11 14:52:44: [0mGET /users/getUser?pageNum=1 [36m304 [0m24.526 ms - -[0m
+2019-03-11 14:52:47: [ 10, 10 ]
+2019-03-11 14:52:47: [[{"count(*)":52}],[{"id":44,"name":"uuuu","age":16,"create_time":"2019-01-21T12:07:54.000Z","update_time":null,"phone":"18524141241","address":"e21e12e1"},{"id":43,"name":"sdasdaw","age":16,"create_time":"2019-01-21T12:07:18.000Z","update_time":null,"phone":"18314532235","address":"321f2131"},{"id":42,"name":"wwww","age":16,"create_time":"2019-01-21T12:05:11.000Z","update_time":null,"phone":"18312547804","address":"123123"},{"id":41,"name":"123123","age":16,"create_time":"2019-01-07T11:09:55.000Z","update_time":"2019-01-21T12:04:52.000Z","phone":"18303035845","address":"123123"},{"id":40,"name":"test","age":16,"create_time":"2019-01-07T10:13:26.000Z","update_time":"2019-01-07T10:13:36.000Z","phone":"18303035831","address":"23123123"},{"id":39,"name":"阿猹1","age":26,"create_time":"2018-12-25T09:22:29.000Z","update_time":"2019-01-07T10:13:09.000Z","phone":"13023625832","address":"123123"},{"id":38,"name":"阿猹","age":16,"create_time":"2018-12-25T09:16:35.000Z","update_time":null,"phone":"18303037887","address":"12312312"},{"id":37,"name":"12e","age":16,"create_time":"2018-12-25T09:05:44.000Z","update_time":null,"phone":"123","address":"123"},{"id":36,"name":"124","age":90,"create_time":"2018-12-25T09:05:16.000Z","update_time":null,"phone":"124124124","address":"1241244"},{"id":35,"name":"123","age":16,"create_time":"2018-12-25T09:03:05.000Z","update_time":null,"phone":"123","address":"123"}]]
+2019-03-11 14:52:47: [0mGET /users/getUser?pageNum=2 [32m200 [0m3.768 ms - 1462[0m
+2019-03-11 14:52:54: [0mGET /about/getData?pageNum=1 [36m304 [0m4.476 ms - -[0m
+2019-03-11 14:52:56: [0mGET /about/getData?pageNum=3 [32m200 [0m3.586 ms - 498[0m
+2019-03-11 14:52:57: 4
+2019-03-11 14:52:57: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:52:57: [0mGET /about/deleteData?id=4 [32m200 [0m4.883 ms - 53[0m
+2019-03-11 14:52:57: [0mGET /about/getData?pageNum=3 [32m200 [0m2.580 ms - 280[0m
+2019-03-11 14:52:58: 5
+2019-03-11 14:52:58: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:52:58: [0mGET /about/deleteData?id=5 [32m200 [0m3.437 ms - 53[0m
+2019-03-11 14:52:58: [0mGET /about/getData?pageNum=3 [32m200 [0m2.080 ms - 65[0m
+2019-03-11 14:53:01: [0mGET /about/getData?pageNum=1 [32m200 [0m4.060 ms - 2456[0m
+2019-03-11 14:53:02: [0mGET /about/getData?pageNum=2 [32m200 [0m2.454 ms - 2201[0m
+2019-03-11 14:53:03: [0mGET /about/getData?pageNum=1 [36m304 [0m2.380 ms - -[0m
+2019-03-11 14:53:09: [0mGET /about/getData?pageNum=2 [36m304 [0m3.001 ms - -[0m
+2019-03-11 14:53:10: 11
+2019-03-11 14:53:10: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:53:10: [0mGET /about/deleteData?id=11 [32m200 [0m3.961 ms - 53[0m
+2019-03-11 14:53:10: [0mGET /about/getData?pageNum=2 [32m200 [0m2.352 ms - 1990[0m
+2019-03-11 14:53:11: 12
+2019-03-11 14:53:11: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:53:11: [0mGET /about/deleteData?id=12 [32m200 [0m3.966 ms - 53[0m
+2019-03-11 14:53:11: [0mGET /about/getData?pageNum=2 [32m200 [0m1.859 ms - 1777[0m
+2019-03-11 14:55:14: [ 0, 10 ]
+2019-03-11 14:55:14: [[{"count(*)":52}],[{"id":54,"name":"124","age":16,"create_time":"2019-02-14T02:41:31.000Z","update_time":null,"phone":"18312412412","address":"124412"},{"id":53,"name":"awdawd","age":16,"create_time":"2019-02-12T07:53:00.000Z","update_time":null,"phone":"13224142141","address":"124124124"},{"id":52,"name":"wadwad","age":16,"create_time":"2019-02-12T06:44:22.000Z","update_time":null,"phone":"18354584754","address":"124124124"},{"id":51,"name":"24141241","age":17,"create_time":"2019-01-24T07:12:06.000Z","update_time":"2019-01-30T08:09:23.000Z","phone":"18712412412","address":"12414124"},{"id":50,"name":"12e12e12","age":16,"create_time":"2019-01-24T07:10:09.000Z","update_time":null,"phone":"18221412421","address":"1241241241"},{"id":49,"name":"12e1e212","age":16,"create_time":"2019-01-24T07:08:16.000Z","update_time":null,"phone":"18312412412","address":"12412412412"},{"id":48,"name":"yyyy","age":18,"create_time":"2019-01-24T07:06:43.000Z","update_time":null,"phone":"18305415448","address":"124124124124124"},{"id":47,"name":"12412412","age":16,"create_time":"2019-01-24T07:05:52.000Z","update_time":null,"phone":"18242342423","address":"124124124214"},{"id":46,"name":"uetastz","age":16,"create_time":"2019-01-24T07:05:35.000Z","update_time":null,"phone":"13752452452","address":"21314124124"},{"id":45,"name":"123","age":16,"create_time":"2019-01-21T12:09:03.000Z","update_time":"2019-01-22T06:46:25.000Z","phone":"13790239109","address":"12e12e1"}]]
+2019-03-11 14:55:14: [0mGET /users/getUser?pageNum=1 [36m304 [0m25.934 ms - -[0m
+2019-03-11 14:55:21: [0mGET /about/getData?pageNum=1 [32m200 [0m5.003 ms - 2456[0m
+2019-03-11 14:55:23: [0mGET /about/getData?pageNum=2 [36m304 [0m4.200 ms - -[0m
+2019-03-11 14:55:36: { hash: 'FoF5PY33iYZD6zIInAClc7BK4TcK',
+  key: 'FoF5PY33iYZD6zIInAClc7BK4TcK' }
+2019-03-11 14:55:36: [0mPOST /about/addData [32m200 [0m814.488 ms - 51[0m
+2019-03-11 14:55:36: [0mGET /about/getData?pageNum=1 [32m200 [0m3.924 ms - 2451[0m
+2019-03-11 14:55:44: { hash: 'FkFhMGLMrFoPKk9YA7884SAeeVix',
+  key: 'FkFhMGLMrFoPKk9YA7884SAeeVix' }
+2019-03-11 14:55:44: [0mPOST /about/addData [32m200 [0m782.947 ms - 51[0m
+2019-03-11 14:55:44: [0mGET /about/getData?pageNum=1 [32m200 [0m8.461 ms - 2454[0m
+2019-03-11 14:55:48: [0mGET /about/getData?pageNum=2 [32m200 [0m2.971 ms - 2211[0m
+2019-03-11 14:55:54: { hash: 'Fofw6DVG9HvG3Me-eknkiesszUIJ',
+  key: 'Fofw6DVG9HvG3Me-eknkiesszUIJ' }
+2019-03-11 14:55:54: [0mPOST /about/addData [32m200 [0m308.558 ms - 51[0m
+2019-03-11 14:55:54: [0mGET /about/getData?pageNum=1 [32m200 [0m3.823 ms - 2456[0m
+2019-03-11 14:55:59: { hash: 'Fre82k0k-iaqHN2l_JwrslWjMZYa',
+  key: 'Fre82k0k-iaqHN2l_JwrslWjMZYa' }
+2019-03-11 14:55:59: [0mPOST /about/addData [32m200 [0m254.702 ms - 51[0m
+2019-03-11 14:55:59: [0mGET /about/getData?pageNum=1 [32m200 [0m3.172 ms - 2459[0m
+2019-03-11 14:56:00: [0mGET /about/getData?pageNum=3 [32m200 [0m3.271 ms - 486[0m
+2019-03-11 14:56:02: 13
+2019-03-11 14:56:02: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:56:02: [0mGET /about/deleteData?id=13 [32m200 [0m5.133 ms - 53[0m
+2019-03-11 14:56:02: [0mGET /about/getData?pageNum=3 [32m200 [0m2.496 ms - 274[0m
+2019-03-11 14:56:03: 14
+2019-03-11 14:56:03: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:56:03: [0mGET /about/deleteData?id=14 [32m200 [0m3.632 ms - 53[0m
+2019-03-11 14:56:03: [0mGET /about/getData?pageNum=3 [32m200 [0m2.123 ms - 65[0m
+2019-03-11 14:56:08: [0mGET /about/getData?pageNum=1 [32m200 [0m2.961 ms - 2459[0m
+2019-03-11 14:56:09: [0mGET /about/getData?pageNum=2 [32m200 [0m2.666 ms - 2218[0m
+2019-03-11 14:56:11: [0mGET /about/getData?pageNum=1 [32m200 [0m3.330 ms - 2459[0m
+2019-03-11 14:56:12: 31
+2019-03-11 14:56:12: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 14:56:12: [0mGET /about/deleteData?id=31 [32m200 [0m4.028 ms - 53[0m
+2019-03-11 14:56:12: [0mGET /about/getData?pageNum=1 [32m200 [0m2.756 ms - 2462[0m
+2019-03-11 14:56:17: [0mGET /about/getData?pageNum=2 [32m200 [0m21.125 ms - 2005[0m
+2019-03-11 14:56:54: { hash: 'FoF5PY33iYZD6zIInAClc7BK4TcK',
+  key: 'FoF5PY33iYZD6zIInAClc7BK4TcK' }
+2019-03-11 14:56:54: [0mPOST /about/addData [32m200 [0m337.402 ms - 51[0m
+2019-03-11 14:56:54: [0mGET /about/getData?pageNum=1 [32m200 [0m5.054 ms - 2465[0m
+2019-03-11 14:57:00: { hash: 'FkFhMGLMrFoPKk9YA7884SAeeVix',
+  key: 'FkFhMGLMrFoPKk9YA7884SAeeVix' }
+2019-03-11 14:57:00: [0mPOST /about/addData [32m200 [0m262.375 ms - 51[0m
+2019-03-11 14:57:00: [0mGET /about/getData?pageNum=1 [32m200 [0m3.175 ms - 2466[0m
+2019-03-11 14:57:02: [0mGET /about/getData?pageNum=3 [32m200 [0m2.453 ms - 282[0m
+2019-03-11 15:00:52: 15
+2019-03-11 15:00:53: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:00:53: [0mGET /about/deleteData?id=15 [32m200 [0m20.753 ms - 53[0m
+2019-03-11 15:00:53: [0mGET /about/getData?pageNum=3 [32m200 [0m4.506 ms - 65[0m
+2019-03-11 15:11:43: { hash: 'FjVJR1-KHd-vJzsYTNQIDh3Iaoc1',
+  key: 'FjVJR1-KHd-vJzsYTNQIDh3Iaoc1' }
+2019-03-11 15:11:43: [0mPOST /about/addData [32m200 [0m310.079 ms - 51[0m
+2019-03-11 15:11:43: [0mGET /about/getData?pageNum=1 [32m200 [0m5.845 ms - 2464[0m
+2019-03-11 15:11:44: [0mGET /about/getData?pageNum=3 [32m200 [0m21.110 ms - 281[0m
+2019-03-11 15:13:44: 16
+2019-03-11 15:13:44: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:13:44: [0mGET /about/deleteData?id=16 [32m200 [0m22.274 ms - 53[0m
+2019-03-11 15:13:44: [0mGET /about/getData?pageNum=3 [32m200 [0m4.418 ms - 65[0m
+2019-03-11 15:15:59: [0mGET /about/getData?pageNum=1 [32m200 [0m19.867 ms - 2464[0m
+2019-03-11 15:16:00: [0mGET /about/getData?pageNum=2 [32m200 [0m4.735 ms - 2219[0m
+2019-03-11 15:16:02: [0mGET /about/getData?pageNum=1 [32m200 [0m3.082 ms - 2464[0m
+2019-03-11 15:16:05: [0mGET /about/getData?pageNum=2 [32m200 [0m3.427 ms - 2219[0m
+2019-03-11 15:27:37: 18
+2019-03-11 15:27:37: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:27:37: [0mGET /about/deleteData?id=18 [32m200 [0m22.795 ms - 53[0m
+2019-03-11 15:27:37: [0mGET /about/getData?pageNum=2 [32m200 [0m4.820 ms - 2005[0m
+2019-03-11 15:39:11: { hash: 'FjVJR1-KHd-vJzsYTNQIDh3Iaoc1',
+  key: 'FjVJR1-KHd-vJzsYTNQIDh3Iaoc1' }
+2019-03-11 15:39:11: [0mPOST /about/addData [32m200 [0m307.847 ms - 51[0m
+2019-03-11 15:39:11: [0mGET /about/getData?pageNum=1 [32m200 [0m6.942 ms - 2461[0m
+2019-03-11 15:39:13: [0mGET /about/getData?pageNum=2 [32m200 [0m2.940 ms - 2005[0m
+2019-03-11 15:39:19: { hash: 'FkFhMGLMrFoPKk9YA7884SAeeVix',
+  key: 'FkFhMGLMrFoPKk9YA7884SAeeVix' }
+2019-03-11 15:39:19: [0mPOST /about/addData [32m200 [0m679.079 ms - 51[0m
+2019-03-11 15:39:19: [0mGET /about/getData?pageNum=1 [32m200 [0m3.845 ms - 2468[0m
+2019-03-11 15:39:21: [0mGET /about/getData?pageNum=2 [32m200 [0m2.887 ms - 2216[0m
+2019-03-11 15:39:30: { hash: 'Fkoj5bKMLtil9swRy2tgYSrWSOia',
+  key: 'Fkoj5bKMLtil9swRy2tgYSrWSOia' }
+2019-03-11 15:39:30: [0mPOST /about/addData [32m200 [0m235.115 ms - 51[0m
+2019-03-11 15:39:30: [0mGET /about/getData?pageNum=1 [32m200 [0m2.984 ms - 2233[0m
+2019-03-11 15:39:32: [0mGET /about/getData?pageNum=2 [32m200 [0m3.325 ms - 2456[0m
+2019-03-11 15:39:32: [0mGET /about/getData?pageNum=3 [32m200 [0m3.198 ms - 277[0m
+2019-03-11 15:39:34: [0mGET /about/getData?pageNum=1 [32m200 [0m2.361 ms - 2233[0m
+2019-03-11 15:39:35: [0mGET /about/getData?pageNum=2 [32m200 [0m2.474 ms - 2456[0m
+2019-03-11 15:39:39: [0mPOST /about/updateData [32m200 [0m251.635 ms - 51[0m
+2019-03-11 15:39:39: [0mGET /about/getData?pageNum=2 [32m200 [0m5.101 ms - 2456[0m
+2019-03-11 15:39:44: [0mPOST /about/updateData [32m200 [0m218.169 ms - 51[0m
+2019-03-11 15:39:44: [0mGET /about/getData?pageNum=2 [32m200 [0m3.209 ms - 2456[0m
+2019-03-11 15:39:49: [0mPOST /about/updateData [32m200 [0m180.269 ms - 51[0m
+2019-03-11 15:39:49: [0mGET /about/getData?pageNum=2 [32m200 [0m3.268 ms - 2456[0m
+2019-03-11 15:39:54: [0mPOST /about/updateData [32m200 [0m199.753 ms - 51[0m
+2019-03-11 15:39:54: [0mGET /about/getData?pageNum=2 [32m200 [0m3.012 ms - 2456[0m
+2019-03-11 15:39:58: [0mPOST /about/updateData [32m200 [0m175.524 ms - 51[0m
+2019-03-11 15:39:58: [0mGET /about/getData?pageNum=2 [32m200 [0m2.893 ms - 2456[0m
+2019-03-11 15:40:02: [0mPOST /about/updateData [32m200 [0m222.556 ms - 51[0m
+2019-03-11 15:40:02: [0mGET /about/getData?pageNum=2 [32m200 [0m2.525 ms - 2456[0m
+2019-03-11 15:40:03: [0mGET /about/getData?pageNum=3 [32m200 [0m2.412 ms - 277[0m
+2019-03-11 15:40:07: [0mGET /about/getData?pageNum=1 [32m200 [0m21.817 ms - 2233[0m
+2019-03-11 15:40:08: [0mGET /about/getData?pageNum=3 [32m200 [0m4.961 ms - 277[0m
+2019-03-11 15:41:02: 17
+2019-03-11 15:41:02: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:41:02: [ RowDataPacket { 'count(*)': 20 } ]
+2019-03-11 15:41:02: [0mGET /about/deleteData?id=17 [32m200 [0m26.959 ms - 53[0m
+2019-03-11 15:41:02: [0mGET /about/getData?pageNum=3 [32m200 [0m3.215 ms - 65[0m
+2019-03-11 15:41:14: { hash: 'FqX_5jXZPW4w6XDonAb8qVW2v0rX',
+  key: 'FqX_5jXZPW4w6XDonAb8qVW2v0rX' }
+2019-03-11 15:41:14: [0mPOST /about/addData [32m200 [0m276.418 ms - 51[0m
+2019-03-11 15:41:14: [0mGET /about/getData?pageNum=1 [32m200 [0m5.123 ms - 2231[0m
+2019-03-11 15:41:16: [0mGET /about/getData?pageNum=3 [32m200 [0m2.755 ms - 277[0m
+2019-03-11 15:41:25: 20
+2019-03-11 15:41:25: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:41:25: [ RowDataPacket { 'count(*)': 20 } ]
+2019-03-11 15:41:25: [0mGET /about/deleteData?id=20 [32m200 [0m142.417 ms - 53[0m
+2019-03-11 15:41:25: [0mGET /about/getData?pageNum=3 [32m200 [0m20.988 ms - 65[0m
+2019-03-11 15:42:04: { hash: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M',
+  key: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M' }
+2019-03-11 15:42:04: [0mPOST /about/addData [32m200 [0m238.664 ms - 51[0m
+2019-03-11 15:42:04: [0mGET /about/getData?pageNum=1 [32m200 [0m5.017 ms - 2231[0m
+2019-03-11 15:42:05: [0mGET /about/getData?pageNum=3 [32m200 [0m2.514 ms - 280[0m
+2019-03-11 15:42:39: 21
+2019-03-11 15:42:39: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:42:39: [ RowDataPacket { 'count(*)': 20 } ]
+2019-03-11 15:42:39: [0mGET /about/deleteData?id=21 [32m200 [0m27.028 ms - 53[0m
+2019-03-11 15:42:39: [0mGET /about/getData?pageNum=3 [32m200 [0m3.691 ms - 65[0m
+2019-03-11 15:43:53: { hash: 'Fkoj5bKMLtil9swRy2tgYSrWSOia',
+  key: 'Fkoj5bKMLtil9swRy2tgYSrWSOia' }
+2019-03-11 15:43:53: [0mPOST /about/addData [32m200 [0m307.615 ms - 51[0m
+2019-03-11 15:43:53: [0mGET /about/getData?pageNum=1 [32m200 [0m6.206 ms - 2232[0m
+2019-03-11 15:43:55: [0mGET /about/getData?pageNum=3 [32m200 [0m2.578 ms - 285[0m
+2019-03-11 15:43:59: 22
+2019-03-11 15:43:59: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:43:59: [ RowDataPacket { 'count(*)': 20 } ] 'res'
+2019-03-11 15:43:59: [0mGET /about/deleteData?id=22 [32m200 [0m6.828 ms - 53[0m
+2019-03-11 15:43:59: [0mGET /about/getData?pageNum=3 [32m200 [0m2.320 ms - 65[0m
+2019-03-11 15:44:32: [0mGET /about/getData?pageNum=1 [32m200 [0m22.999 ms - 2232[0m
+2019-03-11 15:44:36: { hash: 'Fkoj5bKMLtil9swRy2tgYSrWSOia',
+  key: 'Fkoj5bKMLtil9swRy2tgYSrWSOia' }
+2019-03-11 15:44:36: [0mPOST /about/addData [32m200 [0m294.489 ms - 51[0m
+2019-03-11 15:44:36: [0mGET /about/getData?pageNum=1 [32m200 [0m4.452 ms - 2231[0m
+2019-03-11 15:44:37: [0mGET /about/getData?pageNum=3 [32m200 [0m2.755 ms - 277[0m
+2019-03-11 15:44:46: 24
+2019-03-11 15:44:46: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:45:12: 24
+2019-03-11 15:45:12: {"fieldCount":0,"affectedRows":0,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:45:12: [0mGET /about/deleteData?id=24 [32m200 [0m20.620 ms - 42[0m
+2019-03-11 15:45:12: [0mGET /about/getData?pageNum=3 [32m200 [0m4.695 ms - 65[0m
+2019-03-11 15:45:35: { hash: 'Fp50nsajEYffNjVMvM4vliSdkWJh',
+  key: 'Fp50nsajEYffNjVMvM4vliSdkWJh' }
+2019-03-11 15:45:35: [0mPOST /about/addData [32m200 [0m249.077 ms - 51[0m
+2019-03-11 15:45:35: [0mGET /about/getData?pageNum=1 [32m200 [0m3.866 ms - 2229[0m
+2019-03-11 15:45:37: [0mGET /about/getData?pageNum=3 [32m200 [0m2.709 ms - 280[0m
+2019-03-11 15:45:42: 25
+2019-03-11 15:45:42: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:45:42: undefined 'res'
+2019-03-11 15:45:42: [0mGET /about/deleteData?id=25 [32m200 [0m24.424 ms - 53[0m
+2019-03-11 15:45:42: [0mGET /about/getData?pageNum=3 [32m200 [0m3.610 ms - 65[0m
+2019-03-11 15:45:55: { hash: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M',
+  key: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M' }
+2019-03-11 15:45:55: [0mPOST /about/addData [32m200 [0m238.779 ms - 51[0m
+2019-03-11 15:45:55: [0mGET /about/getData?pageNum=1 [32m200 [0m5.669 ms - 2224[0m
+2019-03-11 15:45:56: [0mGET /about/getData?pageNum=3 [32m200 [0m2.649 ms - 277[0m
+2019-03-11 15:45:57: 26
+2019-03-11 15:45:57: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:45:57: undefined 'res'
+2019-03-11 15:45:57: [0mGET /about/deleteData?id=26 [32m200 [0m5.595 ms - 53[0m
+2019-03-11 15:45:57: [0mGET /about/getData?pageNum=3 [32m200 [0m1.955 ms - 65[0m
+2019-03-11 15:50:13: [0mGET /about/getData?pageNum=1 [32m200 [0m19.838 ms - 2224[0m
+2019-03-11 15:50:15: 40
+2019-03-11 15:50:15: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:50:15: undefined 'res'
+2019-03-11 15:50:15: [0mGET /about/deleteData?id=40 [32m200 [0m8.721 ms - 53[0m
+2019-03-11 15:50:15: [0mGET /about/getData?pageNum=1 [32m200 [0m2.902 ms - 2225[0m
+2019-03-11 15:50:37: 49
+2019-03-11 15:50:37: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:50:37: [ RowDataPacket { 'count(*)': 18 } ] 'res'
+2019-03-11 15:50:37: [0mGET /about/deleteData?id=49 [32m200 [0m26.278 ms - 53[0m
+2019-03-11 15:50:37: [0mGET /about/getData?pageNum=1 [32m200 [0m3.935 ms - 2228[0m
+2019-03-11 15:50:50: 48
+2019-03-11 15:50:50: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:50:50: 17 'res'
+2019-03-11 15:50:50: [0mGET /about/deleteData?id=48 [32m200 [0m25.246 ms - 53[0m
+2019-03-11 15:50:50: [0mGET /about/getData?pageNum=1 [32m200 [0m3.665 ms - 2230[0m
+2019-03-11 15:51:58: [0mGET /about/getData?pageNum=1 [32m200 [0m22.358 ms - 2230[0m
+2019-03-11 15:52:01: [0mGET /about/getData?pageNum=2 [32m200 [0m3.294 ms - 1814[0m
+2019-03-11 15:52:31: [0mGET /about/getData?pageNum=1 [32m200 [0m26.724 ms - 2230[0m
+2019-03-11 15:52:32: [0mGET /about/getData?pageNum=2 [32m200 [0m3.681 ms - 1814[0m
+2019-03-11 15:52:40: 27
+2019-03-11 15:52:40: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:52:40: 16 'res'
+2019-03-11 15:52:40: [0mGET /about/deleteData?id=27 [32m200 [0m9.459 ms - 53[0m
+2019-03-11 15:52:40: [0mGET /about/getData?pageNum=2 [32m200 [0m3.159 ms - 1597[0m
+2019-03-11 15:55:47: [0mGET /about/getData?pageNum=1 [32m200 [0m18.901 ms - 2230[0m
+2019-03-11 15:56:26: [0mGET /about/getData?pageNum=1 [32m200 [0m18.934 ms - 2230[0m
+2019-03-11 15:56:33: [0mGET /about/getData?pageNum=1 [32m200 [0m23.155 ms - 2230[0m
+2019-03-11 15:56:39: { hash: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M',
+  key: 'Fo57-7IUYFHTZv9xpN_W-N0vBo6M' }
+2019-03-11 15:56:39: [0mPOST /about/addData [32m200 [0m280.740 ms - 51[0m
+2019-03-11 15:56:39: [0mGET /about/getData?pageNum=1 [32m200 [0m4.612 ms - 2227[0m
+2019-03-11 15:56:42: [0mGET /about/getData?pageNum=2 [32m200 [0m3.188 ms - 1813[0m
+2019-03-11 15:56:47: { hash: 'FlV44tAXfWm8KJ6-f_IehC5D-vV9',
+  key: 'FlV44tAXfWm8KJ6-f_IehC5D-vV9' }
+2019-03-11 15:56:47: [0mPOST /about/addData [32m200 [0m173.170 ms - 51[0m
+2019-03-11 15:56:47: [0mGET /about/getData?pageNum=1 [32m200 [0m4.072 ms - 2229[0m
+2019-03-11 15:56:53: { hash: 'Fkoj5bKMLtil9swRy2tgYSrWSOia',
+  key: 'Fkoj5bKMLtil9swRy2tgYSrWSOia' }
+2019-03-11 15:56:53: [0mPOST /about/addData [32m200 [0m314.454 ms - 51[0m
+2019-03-11 15:56:53: [0mGET /about/getData?pageNum=1 [32m200 [0m6.614 ms - 2229[0m
+2019-03-11 15:56:53: [0mGET /about/getData?pageNum=2 [32m200 [0m2.851 ms - 2247[0m
+2019-03-11 15:57:02: { hash: 'FkFhMGLMrFoPKk9YA7884SAeeVix',
+  key: 'FkFhMGLMrFoPKk9YA7884SAeeVix' }
+2019-03-11 15:57:02: [0mPOST /about/addData [32m200 [0m367.365 ms - 51[0m
+2019-03-11 15:57:02: [0mGET /about/getData?pageNum=1 [32m200 [0m3.447 ms - 2231[0m
+2019-03-11 15:57:03: [0mGET /about/getData?pageNum=2 [32m200 [0m2.773 ms - 2463[0m
+2019-03-11 15:57:09: { hash: 'Fofw6DVG9HvG3Me-eknkiesszUIJ',
+  key: 'Fofw6DVG9HvG3Me-eknkiesszUIJ' }
+2019-03-11 15:57:09: [0mPOST /about/addData [32m200 [0m687.790 ms - 51[0m
+2019-03-11 15:57:09: [0mGET /about/getData?pageNum=1 [32m200 [0m2.675 ms - 2240[0m
+2019-03-11 15:57:10: [0mGET /about/getData?pageNum=3 [32m200 [0m2.322 ms - 283[0m
+2019-03-11 15:57:11: 30
+2019-03-11 15:57:11: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 15:57:11: 20 'res'
+2019-03-11 15:57:11: [0mGET /about/deleteData?id=30 [32m200 [0m10.235 ms - 64[0m
+2019-03-11 15:57:11: [0mGET /about/getData?pageNum=2 [32m200 [0m2.538 ms - 2462[0m
+2019-03-11 15:57:14: [0mGET /about/getData?pageNum=1 [32m200 [0m2.467 ms - 2240[0m
+2019-03-11 15:57:15: [0mGET /about/getData?pageNum=2 [32m200 [0m3.286 ms - 2462[0m
+2019-03-11 16:06:03: [0mGET /about/getData?pageNum=1 [32m200 [0m20.982 ms - 2240[0m
+2019-03-11 16:06:05: [0mGET /about/getData?pageNum=2 [32m200 [0m3.284 ms - 2462[0m
+2019-03-11 16:06:17: { hash: 'Ftpdb_dkmLWSiFOjyWnAAKtNFdLf',
+  key: 'Ftpdb_dkmLWSiFOjyWnAAKtNFdLf' }
+2019-03-11 16:06:17: [0mPOST /about/addData [32m200 [0m273.244 ms - 51[0m
+2019-03-11 16:06:17: [0mGET /about/getData?pageNum=1 [32m200 [0m2.893 ms - 2237[0m
+2019-03-11 16:06:19: [0mGET /about/getData?pageNum=3 [32m200 [0m20.007 ms - 275[0m
+2019-03-11 16:06:23: 32
+2019-03-11 16:06:23: {"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+2019-03-11 16:06:23: 20 'res'
+2019-03-11 16:06:23: [0mGET /about/deleteData?id=32 [32m200 [0m7.817 ms - 64[0m
+2019-03-11 16:06:23: [0mGET /about/getData?pageNum=2 [32m200 [0m3.085 ms - 2469[0m
+2019-03-11 16:06:25: [0mGET /about/getData?pageNum=1 [32m200 [0m2.595 ms - 2237[0m
+2019-03-11 16:06:26: [0mGET /about/getData?pageNum=2 [32m200 [0m25.159 ms - 2469[0m
+2019-03-11 16:06:28: [0mGET /about/getData?pageNum=1 [32m200 [0m3.344 ms - 2237[0m
+2019-03-11 16:12:18: [0mGET /about/getData?pageNum=2 [32m200 [0m19.984 ms - 2469[0m
+2019-03-11 16:12:19: [0mGET /about/getData?pageNum=1 [32m200 [0m3.641 ms - 2237[0m

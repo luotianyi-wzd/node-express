@@ -29,7 +29,6 @@ router.get('/getRole', function (req, res, next) {
 //查询用户
 let usersSql = 'select count(*) from users; select * from users order by create_time desc limit ? , ? '
 router.get('/getUser', function (req, res, next) {
-    let loginUser = req.session.loginUser
 
     let pageNum = parseFloat(req.query.pageNum) ? parseFloat(req.query.pageNum) : 1
     let pageSize = parseFloat(req.query.pageSize) ? parseFloat(req.query.pageSize) : 10

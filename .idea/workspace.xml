@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0107da3-192d-432e-aa94-36db666be556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routes/role.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/conf/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app-err.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app-out.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/pm2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/qiniu.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/qiniu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/role.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/role.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +24,9 @@
     <session id="1465875399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.0" value="18" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="29" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -32,18 +34,18 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="db" value="3" />
-          <entry key="ejs" value="9" />
-          <entry key="gitignore" value="3" />
+          <entry key="ejs" value="10" />
+          <entry key="gitignore" value="4" />
           <entry key="html" value="13" />
           <entry key="jpg" value="10" />
-          <entry key="js" value="126" />
-          <entry key="json" value="61" />
+          <entry key="js" value="138" />
+          <entry key="json" value="70" />
           <entry key="log" value="5" />
           <entry key="md" value="2" />
           <entry key="png" value="23" />
@@ -52,12 +54,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="EJS" value="9" />
+          <entry key="EJS" value="10" />
           <entry key="HTML" value="13" />
           <entry key="Image" value="33" />
-          <entry key="JSON" value="61" />
-          <entry key="JavaScript" value="131" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="JSON" value="70" />
+          <entry key="JavaScript" value="143" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,8 +68,8 @@
           <entry key="ejs" value="150" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="132" />
-          <entry key="js" value="9487" />
-          <entry key="json" value="84" />
+          <entry key="js" value="9640" />
+          <entry key="json" value="116" />
           <entry key="md" value="72" />
         </counts>
       </usages-collector>
@@ -75,8 +77,8 @@
         <counts>
           <entry key="EJS" value="150" />
           <entry key="HTML" value="132" />
-          <entry key="JSON" value="84" />
-          <entry key="JavaScript" value="9487" />
+          <entry key="JSON" value="116" />
+          <entry key="JavaScript" value="9640" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -86,61 +88,12 @@
     <favorites_list name="app" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/about.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2028">
-              <caret line="99" column="42" lean-forward="true" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/role.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="33" />
-              <folding>
-                <element signature="e#379#1129#0" />
-                <element signature="e#1248#2027#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="29" column="84" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/query/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/qiniu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="299">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -157,10 +110,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>total</find>
-      <find>testRouter</find>
-      <find>test</find>
-      <find>success</find>
       <find>post</find>
       <find>keys</find>
       <find>var</find>
@@ -187,6 +136,10 @@
       <find>token</find>
       <find>aboutRouter</find>
       <find>order</find>
+      <find>plqgdover.bkt.clouddn.com</find>
+      <find>qiLink</find>
+      <find>请求成功</find>
+      <find>addData</find>
     </findStrings>
     <replaceStrings>
       <replace>1</replace>
@@ -218,18 +171,20 @@
         <option value="$PROJECT_DIR$/sessions/4XeM4I2xZ2nNqgUELiNkvGYf1lZ_Bbea.json" />
         <option value="$PROJECT_DIR$/sessions/xpfC-1g1OZk5s1VB4LtQDv5cadIlWkGV.json" />
         <option value="$PROJECT_DIR$/path_to_nedb_persistence_file.db" />
-        <option value="$PROJECT_DIR$/pm2.json" />
         <option value="$PROJECT_DIR$/routes/test.js" />
         <option value="$PROJECT_DIR$/request/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/utils/upload.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/routes/qiniu.js" />
-        <option value="$PROJECT_DIR$/routes/about.js" />
         <option value="$PROJECT_DIR$/routes/users.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/ecosystem.config.js" />
+        <option value="$PROJECT_DIR$/pm2.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/routes/role.js" />
+        <option value="$PROJECT_DIR$/pm2.json" />
+        <option value="$PROJECT_DIR$/routes/about.js" />
         <option value="$PROJECT_DIR$/conf/index.js" />
       </list>
     </option>
@@ -257,10 +212,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
-    <option name="y" value="74" />
+    <option name="x" value="19" />
+    <option name="y" value="16" />
     <option name="width" value="1672" />
-    <option name="height" value="906" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -281,6 +236,11 @@
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,12 +315,24 @@
       <workItem from="1550146311106" duration="515000" />
       <workItem from="1550198127306" duration="1286000" />
       <workItem from="1550217586914" duration="8000" />
-      <workItem from="1550476580843" duration="7562000" />
+      <workItem from="1550476580843" duration="10740000" />
+      <workItem from="1550629515799" duration="468000" />
+      <workItem from="1551150357646" duration="12000" />
+      <workItem from="1551248865199" duration="7970000" />
+      <workItem from="1551408722758" duration="40000" />
+      <workItem from="1551423088353" duration="24000" />
+      <workItem from="1551680751900" duration="17000" />
+      <workItem from="1551752301495" duration="69000" />
+      <workItem from="1551752405114" duration="5000" />
+      <workItem from="1551780772768" duration="252000" />
+      <workItem from="1552113110846" duration="61000" />
+      <workItem from="1552287118504" duration="4017000" />
+      <workItem from="1552292151427" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179032000" />
+    <option name="totallyTimeSpent" value="195155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,10 +344,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="256" y="74" width="1672" height="906" extended-state="0" />
+    <frame x="19" y="16" width="1672" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6731343" visible="true" weight="0.12714988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6731343" visible="true" weight="0.16523342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.32686567" side_tool="true" weight="0.12714988" />
@@ -389,7 +361,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009259" side_tool="true" weight="0.38686132" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49907407" weight="0.3044655" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49907407" weight="0.4126394" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,17 +374,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/error.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/pm2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -433,13 +394,6 @@
     <entry file="file://$PROJECT_DIR$/page/upload/奖品-爱奇艺月卡_2019_1_5_11_36.png" />
     <entry file="file://$PROJECT_DIR$/page/upload/奖品-优惠券_2019_1_5_14_28.png" />
     <entry file="file://$PROJECT_DIR$/page/upload/jie_2019_1_5_15_9.png" />
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="54" column="46" lean-forward="true" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/upload/奖品-优惠券_2019_1_6_15_31.png" />
     <entry file="file://$PROJECT_DIR$/page/upload/062f3342ef50c99beca2f0a21b6a8445_2019_1_3_14_27.jpg" />
     <entry file="file://$PROJECT_DIR$/page/upload/3e6ced50352ac65cebe0028ef6f2b21191138a55_2019_1_3_14_32.jpg" />
@@ -472,13 +426,6 @@
     <entry file="file://$PROJECT_DIR$/page/upload/3e6ced50352ac65cebe0028ef6f2b21191138a55_2019_1_3_16_28.jpg" />
     <entry file="file://$PROJECT_DIR$/page/upload/3e6ced50352ac65cebe0028ef6f2b21191138a55_2019_1_3_16_31.jpg" />
     <entry file="file://$PROJECT_DIR$/page/upload/bigCoded9f7e3a92e395229351e7d27ce533147_2019_1_3_16_55.png" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/upload/灵鲜生5元优惠券2_2019_1_3_19_25.jpg" />
     <entry file="file://$PROJECT_DIR$/routes/index.js" />
     <entry file="file://$PROJECT_DIR$/routes/login.js" />
@@ -509,10 +456,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1161437123/FileRecv/images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/query/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -523,52 +498,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/1161437123/FileRecv/images.html">
+    <entry file="file://$PROJECT_DIR$/routes/role.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="514">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/about.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2028">
-          <caret line="99" column="42" lean-forward="true" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+        <state relative-caret-position="299">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="138">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pm2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="29" column="84" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="84" />
+        <state relative-caret-position="230">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/role.js">
+    <entry file="file://$PROJECT_DIR$/routes/about.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="33" />
-          <folding>
-            <element signature="e#379#1129#0" />
-            <element signature="e#1248#2027#0" />
-          </folding>
+        <state relative-caret-position="544">
+          <caret line="85" column="14" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="299">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>

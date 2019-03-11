@@ -11,7 +11,7 @@ module.exports =
         qiniu: {
             accessKey: '******',
             secretKey: '******',
-            bucket: 'test',
+            bucket: 'test2',
             origin: 'http://test.u.qiniudn.com',
             uploadURL: 'http://up-z2.qiniu.com/'
         }

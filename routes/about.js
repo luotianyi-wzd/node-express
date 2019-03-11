@@ -8,7 +8,7 @@ const fs = require('fs')
 let keys = require('./../utils/key')*/
 let token = require('./qiniu')
 const request = require('request');
-
+const qiLink = 'http://pnkqx0xb6.bkt.clouddn.com'
 //查询数据
 let usersSql = 'select count(*) from about; select * from about order by create_time desc limit ? , ? '
 router.get('/getData', function (req, res, next) {
@@ -53,7 +53,7 @@ router.post('/addData', function (req, res, next) {
             if (!err) {
                 fs.unlinkSync(newPath)
                 console.log(JSON.parse(body))
-                let picture = 'http://plqgdover.bkt.clouddn.com' + '/' + JSON.parse(body).key
+                let picture = qiLink + '/' + JSON.parse(body).key
                 query(addSql, [fields.name, fields.description, picture, fields.status], function (request) {
                     if (request.affectedRows == 1) {
                         res.send({code: 1, message: "success", msg: '添加成功'})
@@ -73,13 +73,17 @@ router.post('/addData', function (req, res, next) {
 
 //删除用户
 let deleteSql = 'delete from about where id = ?'
+let deleteSql1 = 'select count(*) from about'
 router.get('/deleteData', function (req, res, next) {
     let id = parseFloat(req.query.id)
     console.log(id)
     query(deleteSql, [id], function (request) {
         console.log(JSON.stringify(request))
         if (request.affectedRows == 1) {
-            res.send({code: '1', message: '删除成功', msg: 'success'})
+            query(deleteSql1, [], function (req) {
+                console.log(req[0]['count(*)'], 'res')
+                res.send({code: '1', message: '删除成功', msg: 'success', total: req[0]['count(*)']})
+            })
         } else {
             res.send({code: 0, message: 'faild', msg: 'faild'})
         }
@@ -112,7 +116,7 @@ router.post('/updateData', function (req, res, next) {
             let r = request.post('https://up-z2.qiniup.com', function (err, response, body) {
                 if (!err) {
                     fs.unlinkSync(newPath)
-                    let picture = 'http://plqgdover.bkt.clouddn.com' + '/' + JSON.parse(body).key
+                    let picture = qiLink + '/' + JSON.parse(body).key
                     query(updateSql, [fields.name, fields.description, picture, fields.status, fields.id], function (request) {
                         if (request.affectedRows == 1) {
                             res.send({code: 1, message: "success", msg: '编辑成功'})
